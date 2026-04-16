@@ -23,4 +23,5 @@ I am a student at the **University of Patras (CEID)** with a foundation in IT fr
 ## 📫 Let's Connect
 - 🌍 Based in: **Patras, Greece**
 - 📧 Email: geochris1319@gmail.com
-![](https://komarev.com/ghpvc/?username=LemonDerv&color=dc143c) <-- 'Big' number go up.
+
+![](https://komarev.com/ghpvc/?username=LemonDerv&color=dc143c) <-- 'Big' number go up
