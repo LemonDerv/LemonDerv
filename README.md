@@ -1,4 +1,4 @@
-# Hi there, I'm LemonDerv 🇬🇷
+# Hi there, I'm LemonDerv
 
 ### 🎓 Software Engineer & Low-Level Enthusiast
 I am a student at the **University of Patras (CEID)** with a foundation in IT from my Vocational Lyceum years. At my worst, I make things work
